@@ -1,0 +1,11 @@
+ID_Atendimento;Data_Hora;Paciente;Relato_Transcrito;Categoria_Servico;Nivel_Urgencia;Tempo_Estimado_Min;Status_Agendamento
+1;24/03/2026 08:30;Paciente A;Minha unha do dedão está encravada e saindo pus.;Podologia Clinica;Alta;45;Pendente
+2;24/03/2026 09:15;Paciente B;Gostaria de fazer uma limpeza preventiva e cortar as unhas.;Podologia Preventiva;Baixa;30;Agendado
+3;24/03/2026 10:00;Paciente C;Sinto muita dor no calcanhar ao pisar logo cedo.;Tratamento de Esporao;Media;40;Agendado
+4;24/03/2026 11:45;Paciente D;Estou com uma verruga plantar que dói muito.;Tratamento de Verruga;Media;30;Pendente
+5;24/03/2026 14:20;Paciente E;Minha unha está com uma mancha amarela e grossa.;Micose de Unha;Baixa;45;Agendado
+6;25/03/2026 08:10;Paciente F;Unha encravada com muita dor e inflamação.;Podologia Clinica;Alta;45;Agendado
+7;25/03/2026 09:30;Paciente G;Check-up de rotina para os pés.;Podologia Preventiva;Baixa;30;Cancelado
+8;25/03/2026 11:00;Paciente H;Sinto os pés muito ressecados e com rachaduras.;Hidratacao Profunda;Baixa;40;Agendado
+9;26/03/2026 08:45;Paciente I;A unha do meu filho encravou jogando bola.;Podologia Infantil;Alta;45;Agendado
+10;26/03/2026 13:15;Paciente J;Preciso tratar uma calosidade no dedo mindinho.;Tratamento de Calos;Media;30;Pendente
